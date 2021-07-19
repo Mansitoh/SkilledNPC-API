@@ -1,0 +1,4 @@
+name: SkilledNPCAPI
+version: ${project.version}
+main: dev.mansitoh.skilled.skillednpc.api.SkilledNPCAPI
+authors: [Mansitoh]
